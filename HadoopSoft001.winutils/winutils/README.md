@@ -6,7 +6,7 @@ So I tried to compile myself and push binaries here for you all
 
 [compile steps (in Chinese)](https://www.jianshu.com/p/1b4cbabfd899)
 
-## how to use
+## how to use  
 
 place a copy of hadoop-ver folder on your local drive
 set environment vars:
